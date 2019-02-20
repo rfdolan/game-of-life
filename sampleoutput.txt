@@ -1,0 +1,46 @@
+Game of Life
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+           x        
+         x x        
+          xx        
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+             x      
+              x     
+            xxx     
+                    
+                    
+                    
+                    
+                    
+                    
+Terminated after  10  generations. Reason: Target number of generations reached. 
+
+
+This output is produced by typing: ./life 20 20 10 glider.txt 
+
